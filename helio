@@ -1,0 +1,130 @@
+# 📘 Caderno Temático com IA - Engenharia de IA
+
+## 📌 Contexto
+
+Este projeto foi desenvolvido como parte de um desafio prático da DIO com o objetivo de utilizar a Inteligência Artificial como ferramenta de aprendizagem ativa.
+
+O tema escolhido foi **Engenharia de IA**, uma área focada na criação, implementação e manutenção de sistemas baseados em inteligência artificial no mundo real.
+
+---
+
+## 🎯 Objetivos
+
+* Entender os conceitos fundamentais da Engenharia de IA
+* Aprender como a IA é aplicada no mercado de trabalho
+* Desenvolver habilidades de engenharia de prompts
+* Criar um material de estudo organizado e reutilizável
+* Utilizar o NotebookLM como ferramenta de apoio ao aprendizado
+
+---
+
+## 📚 Curadoria de Fontes
+
+As seguintes fontes foram utilizadas no NotebookLM:
+
+1. https://www.ibm.com/topics/artificial-intelligence
+2. https://cloud.google.com/learn/what-is-artificial-intelligence
+3. https://www.geeksforgeeks.org/artificial-intelligence/
+4. https://towardsdatascience.com/
+
+Obs: Os conteúdos foram selecionados para fornecer uma base sólida sobre IA e suas aplicações práticas.
+
+---
+
+## 🤖 Engenharia de Prompts
+
+### 🔹 Prompt 1:
+
+O que é Engenharia de IA?
+
+📌 Resultado:
+Resposta muito superficial e genérica.
+
+⚠️ Problema:
+Não trouxe exemplos práticos nem aplicações reais.
+
+---
+
+### 🔹 Prompt 2:
+
+Explique Engenharia de IA com exemplos práticos no mercado
+
+📌 Resultado:
+Resposta melhor, com exemplos de uso em empresas.
+
+⚠️ Problema:
+Ainda faltou clareza para iniciantes.
+
+---
+
+### 🔹 Prompt 3 (Melhorado):
+
+Explique Engenharia de IA como se eu fosse iniciante, inclua exemplos reais, aplicações no mercado e erros comuns
+
+📌 Resultado:
+Resposta muito mais completa, fácil de entender e útil para estudo.
+
+---
+
+## 🧠 Cicatrizes (Aprendizados)
+
+* Prompts genéricos geram respostas fracas
+* Quanto mais contexto, melhor a resposta da IA
+* Pedir exemplos práticos melhora o aprendizado
+* Ajustar o prompt faz muita diferença no resultado
+
+---
+
+## 📖 Miniguia de Estudo
+
+### 📌 Resumo
+
+Engenharia de IA é a área responsável por transformar modelos de inteligência artificial em aplicações reais.
+
+Enquanto o cientista de dados cria modelos, o engenheiro de IA se preocupa em colocar esses modelos para funcionar em sistemas, aplicativos e plataformas.
+
+Ela envolve:
+
+* Desenvolvimento de modelos de IA
+* Integração com sistemas
+* Deploy (colocar em produção)
+* Monitoramento de desempenho
+
+Exemplo real:
+Sistemas de recomendação como Netflix e Spotify usam Engenharia de IA para funcionar em escala.
+
+---
+
+### 📘 Glossário
+
+* IA (Inteligência Artificial): Sistemas que simulam inteligência humana
+* Machine Learning: Aprendizado baseado em dados
+* Deep Learning: Uso de redes neurais complexas
+* Dataset: Conjunto de dados usado para treino
+* Modelo: Algoritmo treinado para fazer previsões
+* Deploy: Colocar o sistema em funcionamento
+* API: Forma de integrar sistemas
+
+---
+
+### 🔁 Prompts Reutilizáveis
+
+* Explique [assunto] de forma simples
+* Me dê exemplos práticos de [assunto]
+* Como isso é usado no mercado de trabalho?
+* Quais são os erros comuns em [assunto]?
+* Explique como se eu fosse iniciante
+
+---
+
+## 🚀 Conclusão
+
+Este projeto mostrou como a Inteligência Artificial pode ser utilizada como ferramenta ativa de aprendizado.
+
+Além de aprender Engenharia de IA, também foi possível desenvolver habilidades importantes como pensamento crítico, organização de conhecimento e criação de prompts eficientes.
+
+---
+
+## 💡 Autor
+
+Projeto desenvolvido por [SEU NOME AQUI]
